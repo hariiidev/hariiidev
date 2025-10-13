@@ -1,25 +1,25 @@
-<h1 align="center">💻 Hari | Full-Stack Dev</h1>
+<h1 align="center">🌸 Oi, eu sou o Hari 👋</h1>
+<div align="center">
+  <p>Full-Stack Dev que ama criar coisas legais e se divertir com código 💖</p>
+</div>
 
 ---
 
-### ⚡ Stack & Ferramentas
-🌐 Front-End  : HTML | CSS | JavaScript  
-🖥 Back-End   : Node.js | PHP  
-🛠 Ferramentas: Git | VS Code | NPM | MySQL | Nginx  
+### 🌈 Habilidades
+💖 Front-End: HTML | CSS | JavaScript  
+💖 Back-End: Node.js | PHP  
+💖 Ferramentas: Git | VS Code | NPM | MySQL | Nginx  
 
 ---
 
-### 🔹 Projetos em andamento
-**GH Studio**  
-Status: `[████████░░░░] 70%` – Bots privados e sistemas inteligentes.  
-
-**GH Cloud**  
-Status: `[█░░░░░░░░░░░░░] 10%` – Painel de hospedagem e deploy de apps.  
- 
+### 🌱 Projetos
+**GH Studio** 💌 Bots e sistemas divertidos – 70% feito  
+**GH Cloud** ☁️ Painel de hospedagem – 50% feito  
+**Experimentos** 🌈 Testando ideias novas – 65% feito  
 
 ---
 
-### 🌌 Onde me encontrar
+### 🐰 Me encontre
 <a href="https://instagram.com/thehari_i">
   <img src="https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
@@ -29,18 +29,21 @@ Status: `[█░░░░░░░░░░░░░] 10%` – Painel de hospeda
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariiidev&layout=compact&theme=dark&hide_title=true" alt="Top Linguagens"/>  
-
----
-
+### 📊 GitHub
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariiidev&color=dark" alt="Visualizações do Perfil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=dracula&hide_title=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariiidev&layout=compact&theme=dracula&hide_title=true" alt="Top Linguagens"/>
 </div>
 
 ---
 
-### 🔒 Mensagem pessoal
-> Este perfil é meu **hub de devs**: ideias, hacks, testes e projetos privados.  
-> Aqui não é marketing, é código puro. Só quem entende, sente a vibe. 😉
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hariiidev&color=ff69b4" alt="Visualizações do Perfil" />
+</div>
+
+---
+
+### 💌 Sobre mim
+> Adoro criar, aprender e me divertir com código 💖  
+> Se você está aqui, espero que sinta essa vibe comigo ✨
