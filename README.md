@@ -1,31 +1,33 @@
-# <h1 align="center">Olá! Eu sou hariiidev 👋</h1>
+<h1 align="center">Olá! Eu sou Hari 👋</h1>
 
 <div align="center">
-  <p>Bem-vindo ao meu espaço no GitHub!</p>
-  <p>Sou um desenvolvedor "full-stack"!</p>
+  <p>Desenvolvedor Full-Stack apaixonado por criar projetos que unem tecnologia e design.</p>
 </div>
 
 ---
 
-### 💻 Habilidades 
+### 💻 Habilidades
 
-Aqui estão as tecnologias que uso nos meus projetos:
+As ferramentas que uso para transformar ideias em código:
 
-| Categoria     | Tecnologias                                   |
-|---------------|-----------------------------------------------|
-| **Front-End** | `HTML` `CSS` `JavaScript`                     |
-| **Back-End** | `Node.js` `PHP`                               |
-| **Ferramentas**| `Git` `VS Code` `NPM` `MySQL` `Nginx`|
-
----
-
-### 🚀 O que estou fazendo agora
-
-Estou imerso nos projetos **GH Studio** e **GH Cloud**, aplicando minhas habilidades para criar bots e sistemas que combinam funcionalidade com design.
+| Categoria      | Tecnologias                                   |
+|----------------|-----------------------------------------------|
+| **Front-End**  | `HTML` `CSS` `JavaScript`                     |
+| **Back-End**   | `Node.js` `PHP`                               |
+| **Ferramentas**| `Git` `VS Code` `NPM` `MySQL` `Nginx`        |
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🚀 Projetos em andamento
+
+Atualmente estou focado nos meus projetos:
+
+- **GH Studio** – Criando bots e jogos que entregam experiência e diversão.
+- **GH Cloud** – Desenvolvendo sistemas e painéis completos para hospedar e gerenciar apps.
+
+---
+
+### 🌐 Me encontre por aí
 
 <div align="center">
   <a href="https://instagram.com/thehari_i">
@@ -39,13 +41,13 @@ Estou imerso nos projetos **GH Studio** e **GH Cloud**, aplicando minhas habilid
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=dark" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariiidev&layout=compact&theme=dark" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariiidev&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariiidev&color=dark" alt="Visualizações do Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=hariiidev&color=blue" alt="Visualizações do Perfil" />
 </div>
