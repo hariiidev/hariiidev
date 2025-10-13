@@ -1,53 +1,46 @@
-<h1 align="center">Olá! Eu sou Hari 👋</h1>
-
-<div align="center">
-  <p>Desenvolvedor Full-Stack apaixonado por criar projetos que unem tecnologia e design.</p>
-</div>
+<h1 align="center">💻 Hari | Full-Stack Dev</h1>
 
 ---
 
-### 💻 Habilidades
-
-As ferramentas que uso para transformar ideias em código:
-
-| Categoria      | Tecnologias                                   |
-|----------------|-----------------------------------------------|
-| **Front-End**  | `HTML` `CSS` `JavaScript`                     |
-| **Back-End**   | `Node.js` `PHP`                               |
-| **Ferramentas**| `Git` `VS Code` `NPM` `MySQL` `Nginx`        |
+### ⚡ Stack & Ferramentas
+🌐 Front-End  : HTML | CSS | JavaScript  
+🖥 Back-End   : Node.js | PHP  
+🛠 Ferramentas: Git | VS Code | NPM | MySQL | Nginx  
 
 ---
 
-### 🚀 Projetos em andamento
+### 🔹 Projetos em andamento
+**GH Studio**  
+Status: `[████████░░░░] 70%` – Bots privados e sistemas inteligentes.  
 
-Atualmente estou focado nos meus projetos:
-
-- **GH Studio** – Criando bots e jogos que entregam experiência e diversão.
-- **GH Cloud** – Desenvolvendo sistemas e painéis completos para hospedar e gerenciar apps.
+**GH Cloud**  
+Status: `[█░░░░░░░░░░░░░] 10%` – Painel de hospedagem e deploy de apps.  
+ 
 
 ---
 
-### 🌐 Me encontre por aí
+### 🌌 Onde me encontrar
+<a href="https://instagram.com/thehari_i">
+  <img src="https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://discord.gg/nerEktK3Ba">
+  <img src="https://img.shields.io/badge/Discord-#5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
 
-<div align="center">
-  <a href="https://instagram.com/thehari_i">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/nerEktK3Ba">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
+---
+
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariiidev&layout=compact&theme=dark&hide_title=true" alt="Top Linguagens"/>  
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariiidev&layout=compact&theme=radical" alt="Linguagens Mais Usadas"/>
+  <img src="https://komarev.com/ghpvc/?username=hariiidev&color=dark" alt="Visualizações do Perfil" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hariiidev&color=blue" alt="Visualizações do Perfil" />
-</div>
+### 🔒 Mensagem pessoal
+> Este perfil é meu **hub de devs**: ideias, hacks, testes e projetos privados.  
+> Aqui não é marketing, é código puro. Só quem entende, sente a vibe. 😉
