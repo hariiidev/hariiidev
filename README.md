@@ -44,7 +44,7 @@
 ### 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="mailto:seu.email@exemplo.com" target="_blank">
+  <a href="mailto:harielson.silverio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email%20Profissional-000000?style=for-the-badge&logo=gmail&logoColor=D93025" />
   </a>
   <a href="https://instagram.com/thehari_i" target="_blank">
