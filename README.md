@@ -1,14 +1,18 @@
-
 <h1 align="center">🖤 Hari</h1>
-<p align="center">💻 Desenvolvedor Full-Stack & Criador de Conteudo</p>
+<p align="center">💻 Desenvolvedor Full-Stack & Criador de Conteúdo</p>
 
 ---
 
 ### ⚡ Sobre mim
 
-> 🌙 Transformo ideias em código com propósito.  
-> 💫 Busco unir design, lógica e emoção.  
-> ☕ Sempre aprendendo, criando e evoluindo.
+> 🌙 Transformo ideias em código com propósito.
+> 💫 Busco unir design, lógica e emoção.
+> ☕ **Sempre aprendendo, criando e evoluindo.**
+>
+> **Funções Principais:**
+>
+> - **Desenvolvimento Full-Stack** (De interfaces modernas a APIs de alta performance).
+> - **Arquiteto de Automação** (Especialista em Bots e sistemas de comunidade).
 
 ---
 
@@ -16,14 +20,16 @@
 
 <div align="center">
 
-**Front-End**  
-<img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
+#### Front-End & Design
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,html,css,js" height="40" />
+<br>
 
-**Back-End**  
-<img src="https://skillicons.dev/icons?i=nodejs,php" height="40" />
+#### Back-End & Data
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql" height="40" />
+<br>
 
-**Ferramentas**  
-<img src="https://skillicons.dev/icons?i=git,vscode,mysql,nginx" height="40" />
+#### DevOps & Infraestrutura
+<img src="https://skillicons.dev/icons?i=nginx,git,vscode" height="40" />
 
 </div>
 
@@ -33,19 +39,22 @@
 
 <div align="center">
 
-| 💎 Projeto | 🌐 Descrição |
-|-------------|--------------|
-| **GH Studio** 💌 | Bots e sistemas criativos e divertidos |
-| **GH Cloud** ☁️ | Painel moderno de hospedagem com automação |
-| **Experimentos** 🍓 | Ideias, testes e sonhos em código |
+| 💎 Projeto | ⚙️ Especialidade | 🌐 Descrição |
+|-------------|-------------------|--------------|
+| **GH Cloud** ☁️ | **Hospedagem & Infra** | Painel moderno de hospedagem com automação para Bots. |
+| **GH Studio** 💌 | **Bots & Sistemas** | Desenvolvimento de Bots e sistemas criativos e divertidos. |
+| **Experimentos** 🍓 | **Pesquisa & Testes** | Ideias, testes e sonhos em código para futuras implementações. |
 
 </div>
 
 ---
 
-### 🌐 Onde me Encontrar
+### 🌐 Conecte-se Comigo
 
 <p align="center">
+  <a href="mailto:seu.email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Profissional-000000?style=for-the-badge&logo=gmail&logoColor=D93025" />
+  </a>
   <a href="https://instagram.com/thehari_i" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
@@ -53,13 +62,12 @@
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
 </p>
-
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=000000&icon_color=8A2BE2&text_color=ffffff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=000000&icon_color=8A2BE2&text_color=ffffff&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariiidev&layout=compact&theme=dark&hide_title=true&hide_border=true&bg_color=000000&text_color=ffffff" height="160" />
 </div>
 
