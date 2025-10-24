@@ -3,7 +3,7 @@
 
 ---
 
-### ⚡ Sobre mim
+### ⚡| Sobre mim
 
 > 🌙 Transformo ideias em código com propósito.
 > 💫 Busco unir design, lógica e emoção.
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 | Projetos em Desenvolvimento
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 </p>
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊| Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hariiidev&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=000000&icon_color=8A2BE2&text_color=ffffff&count_private=true" height="160" />
