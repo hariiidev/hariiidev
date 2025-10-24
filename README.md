@@ -8,11 +8,6 @@
 > 🌙 Transformo ideias em código com propósito.
 > 💫 Busco unir design, lógica e emoção.
 > ☕ **Sempre aprendendo, criando e evoluindo.**
->
-> **Funções Principais:**
->
-> - **Desenvolvimento Full-Stack** (De interfaces modernas a APIs de alta performance).
-> - **Arquiteto de Automação** (Especialista em Bots e sistemas de comunidade).
 
 ---
 
@@ -42,9 +37,6 @@
 | 💎 Projeto | ⚙️ Especialidade | 🌐 Descrição |
 |-------------|-------------------|--------------|
 | **GH Cloud** ☁️ | **Hospedagem & Infra** | Painel moderno de hospedagem com automação para Bots. |
-| **GH Studio** 💌 | **Bots & Sistemas** | Desenvolvimento de Bots e sistemas criativos e divertidos. |
-| **Experimentos** 🍓 | **Pesquisa & Testes** | Ideias, testes e sonhos em código para futuras implementações. |
-
 </div>
 
 ---
